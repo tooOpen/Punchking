@@ -3,8 +3,8 @@
 # Punchking
 
   * Shake Coke is Android health game user should use SHC-M1 made by solmitech corp.
-  * User would shake device to explode coke
-  * Hard shaking = good Score
+  * User would shake device to punch machine
+  * User has two objective one is shake device at accurate timing and the other is shake as powerfull as possible
   * Provide local Database SQLite
  
    ![punchking](http://cfile23.uf.tistory.com/image/242A344E567BF49C290D87)
