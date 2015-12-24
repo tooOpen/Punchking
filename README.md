@@ -20,3 +20,6 @@
   * Eclipse IDE http://www.eclipse.org/
   * Solmitech http://www.solmitech.com/ko/
   * Android Market https://play.google.com/store/apps/details?id=com.solmi.refitgames.punchking
+
+  # Contact & More Information
+   * http://bsh0608.tistory.com/entry/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4
