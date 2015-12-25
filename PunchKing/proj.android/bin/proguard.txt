@@ -1,9 +1,0 @@
-# view AndroidManifest.xml #generated:28
--keep class com.solmi.bluetoothservice.BluetoothService { <init>(...); }
-
-# view AndroidManifest.xml #generated:23
--keep class com.solmi.refitgames.punchking.FindDeviceActivity { <init>(...); }
-
-# view AndroidManifest.xml #generated:13
--keep class com.solmi.refitgames.punchking.PunchKing { <init>(...); }
-
